@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/paulovenones/paulovenones/blob/master/banner.jpg">
+<img width="auto" src="https://github.com/paulovenones/paulovenones/blob/master/banner.png">
 
 # Paulo Venones
 
