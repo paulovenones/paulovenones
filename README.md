@@ -31,7 +31,7 @@ Would you like to find me?
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
 
-# Thiago Marinho
+# Paulo Venones
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
@@ -41,4 +41,4 @@ Sou um FullStack Developer :computer:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, FIFA, COD e seriados no Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-PauloVenones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-venones-da-silva-9245b5aa/)](https://www.linkedin.com/in/paulo-venones-da-silva-9245b5aa/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-paulovenones@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulovenones@gmail.com)](mailto:paulovenones@gmail.com)
