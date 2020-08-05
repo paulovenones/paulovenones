@@ -3,8 +3,8 @@
 # Paulo Venones
 
 ## Hello everybody 👋
-I am a passionate about solving problems using programming.
-I'm a FullStack developer :computer:
+I'm a passionate about solving problems using programming.
+<br/>I'm a FullStack developer :computer:
 
  <br/> 	:man_student: Student of System Analysis and Development at Anhembi Morumbi University
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native & Javascript
