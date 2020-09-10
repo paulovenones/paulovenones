@@ -1,5 +1,3 @@
-<img width="auto" src="https://github.com/paulovenones/paulovenones/blob/master/banner.png">
-
 # Paulo Venones
 
 ## Hello everybody 👋
