@@ -3,7 +3,6 @@
 ## Hello everybody 👋
 I'm a Software Engineer at Accenture :purple_heart:, passionate about solving problems using programming.
 <br/>I'm a FullStack developer :computer:
-
  <br/> 	:man_student: Student of System Analysis and Development at Anhembi Morumbi University
  <br/> 💻: &nbsp; My stack: ReactJS, Node.js, React Native, Typescript/Javascript, C#/.NET, SQL Databases & MongoDB
  <br/> 💬  &nbsp; About me: I like technologies, soccer, games and TV series
